@@ -15,6 +15,11 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Flat Street",
   description: "Flat Street",
+  icons: [
+    { rel: "icon", url: "/logo.png" },
+    { rel: "shortcut icon", url: "/logo.png" },
+    { rel: "apple-touch-icon", url: "/logo.png" },
+  ],
 };
 
 export default function RootLayout({
