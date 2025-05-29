@@ -24,7 +24,7 @@ export default function Home() {
       Manifesto
     </a>
     <a
-      href="https://twitter.com/nowallstreet"
+      href="https://x.com/nowallstreet_hl"
       target="_blank"
       rel="noopener noreferrer"
       className="flex items-center text-[#022013] hover:text-blue-400 transition-colors"
