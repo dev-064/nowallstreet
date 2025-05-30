@@ -41,7 +41,7 @@ export default function Manifesto() {
             <div className="mb-4 text-2xl md:text-5xl font-semibold text-green-200 text-center">This isn't a disruption.</div>
             <div className="mb-4 text-2xl md:text-5xl font-semibold text-green-200 text-center"> It's a replacement.</div>
             <p className='text-base md:text-xl text-center'>Wall Street was built to control access, extract rent, and reward the past. It closes at 4pm, filters through bankers, and only lists what it can understand. But the world doesn't work like that anymore. Culture moves 24/7. Memes move markets. And the best investments start as internet jokes, not Bloomberg reports.</p>
-            <p className='text-base md:text-xl text-center'>No Wall Street flips the table — no gatekeepers, no closing bell, no permission required. Powered by Hyperliquid, any narrative can become a market in minutes. $NSW is how we bet on what matters now — attention, belief, chaos, and conviction.</p>
+            <p className='text-base md:text-xl text-center'>No Wall Street flips the table — no gatekeepers, no closing bell, no permission required. Powered by Hyperliquid, any narrative can become a market in minutes. $NWS is how we bet on what matters now — attention, belief, chaos, and conviction.</p>
             <p className='text-base md:text-xl text-center'>This isn't a protocol. It's a rejection of everything they built. We're not disrupting Wall Street. We're replacing it.</p>
           </div>
         </div>
